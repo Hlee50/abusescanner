@@ -6,7 +6,7 @@ This client queries the URLhaus, ThreatFox, and/or Malware Bazaar APIs to check 
 An Auth-Key from your abuse.ch account (https://auth.abuse.ch/) is required for the client to make requests to any Abuse.ch API.
 
 # Run the client
-To run the client run the _abuseschcli.py_ script.
+To run the client run the _abusechcli.py_ script.
 
 ### Reference API documentation
 https://urlhaus-api.abuse.ch/
